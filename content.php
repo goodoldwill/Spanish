@@ -30,7 +30,7 @@ return array (
   'Edit the profile' => 'Editar el perfil',
   'Group ' => 'Grupo',
   'Latitude' => 'Latitud',
-  'Life sphere' => 'Esfera de vida',
+  'Life sphere' => 'Tema',
   'Longitude' => 'Longitud',
   'Organization' => 'Organización',
   'Region' => 'Región',

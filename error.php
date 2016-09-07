@@ -93,7 +93,7 @@ return array (
   'The activity feed of the user: the content is hidden in the template ({entity_type}:{entity_id}) because of visibility' => 'El feed de actividad del usuario: El contenido está ocultado en la plantilla ({entity_type}:{entity_id}) por causa de visibilidad.',
   'The activity feed of the user: the content is hidden in the template ({entity_type}:{entity_id}), the crowdfunding not found' => 'El feed de actividad del usuario: El contenido está ocultado en la plantilla ({entity_type}:{entity_id}) no se encontró la acción de crowdfunding',
   'The activity feed of the user: the content is hidden in the template ({entity_type}:{entity_id}), user not found' => 'El feed de actividad del usuario: El contenido está ocultado en la plantilla ({entity_type}:{entity_id}) no se encontró el usuario',
-  'The author information is too long' => 'La información sobre el autor es demasiado larga',
+  'The author information is too long' => 'La información sobre el creado por es demasiado larga',
   'The calue is too long' => 'El valor es demasiado largo',
   'The confirmation code is out of date. Receive the new one.' => 'El código de confirmación está caducado. Reciba un código de confirmación nuevo.',
   'The date can`t begin earlier than the current date' => 'La fecha no puede ocurrir antes de la fecha actual',
