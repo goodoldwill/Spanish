@@ -221,7 +221,7 @@ return array (
   'Invalid request ' => '',
   'It does not get to keep the change ' => '',
   'It does not get to keep the selected image ' => '',
-  'It does not matter' => '',
+  'It does not matter' => 'No me importa',
   'It failed to show the event. ' => '',
   'It has not confirmed ' => '',
   'It is necessary to specify what counter reset ' => '',
