@@ -43,7 +43,7 @@ return array (
   'Change the password' => 'Cambiar la contraseña',
   'Create an account' => 'Crear una cuenta',
   'Enter the e-mail address provided during the registration, and press "Change the Password". We’ll send you a new password.' => 'Introduzca el correo electrónico usado durante el registro y pulse “Cambiar la contraseña”. Le enviaremos la nueva contraseña.',
-  'False' => 'Falso',
+  'False' => 'No',
   'I accept {userAgreementLink}the terms of use{/userAgreementLink}, agree with processing my personal data and confirm that I am 18.' => 'Acepto las {userAgreementLink}condiciones de uso{/userAgreementLink}, consiento el tratamiento de mis datos personales.',
   'Inhabited locality`s name' => 'Nombre de la localidad',
   'Log in' => 'Iniciar sesión',

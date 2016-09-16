@@ -330,7 +330,7 @@ return array (
   'Wrong type complete collection of instructions' => '',
   'Wrong type of punishment ' => '',
   'Wrong type the required user level ' => '',
-  'Yes' => '',
+  'Yes' => 'Sí',
   'Yes <button id="viewCodes">View a list of loaded code </button>' => '',
   'You can create an unlimited number of widgets. Each is only used in one place for one of the tab.' => '',
   'You can not propose the creation of an appeal because the user has no phone or mail ' => '',

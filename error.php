@@ -127,6 +127,6 @@ return array (
   'You can`t create such a long password' => 'No puede crear una contraseña tan larga',
   'You may have entered the incorrect address' => 'Puede haber escrito la dirección incorrecta',
   'cannot be blank' => 'CAMPO OBLIGATORIO',
-  'try again later' => 'intente de entrar de nuevo más tarde',
+  'try again later' => 'Lo sentimos, hubo un error. Por favor, prueba de nuevo más tarde',
   '{tag} feature is turned off by the configuration' => 'La característica {tag} se apagó por la configuración.',
 );

@@ -1248,7 +1248,7 @@ return array (
   'You left a' => 'Has dejado un',
   'You may be the first' => 'Puedes ser el primero ',
   'You may participate in the city`s issues discussion' => 'Puedes participar en la discusión de los asuntos de la ciudad',
-  'You participate in the life of' => 'Vas a participar en la vida de',
+  'You participate in the life of' => '¿Es ésta tu ciudad?',
   'You shared a link' => 'Has compartido un enlace',
   'You signed' => 'Has firmado',
   'You want to participate in the life of' => 'Quieres participar en la vida de',
