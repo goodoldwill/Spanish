@@ -1133,6 +1133,7 @@ return array (
   'The participants will be able to transfer donations to other actions.' => 'Los participantes podrán transferir el dinero a otras acciones.',
   'The password was successfully changed' => 'La contraseña se ha cambiado correctamente',
   'The petition is in progress' => 'La solicitud está en proceso',
+  'The photo has been uploaded correctly' => 'La foto a sido actualizada correctamente',
   'The poll is deleted' => 'La encuesta ha sido eliminada',
   'The postal address or e-mail must exist' => 'Debe haber una dirección posta o correo electrónico',
   'The problem is resolved' => 'Se ha solucionado el problema',
